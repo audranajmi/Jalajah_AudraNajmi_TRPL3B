@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jalajah">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Jalajah">
+        <activity
+            android:name=".ReligiMiniaturMakkah"
+            android:exported="true" />
+        <activity
+            android:name=".ReligiMasjidRaya"
+            android:exported="true" />
+        <activity
+            android:name=".KulinerSotoGaruda"
+            android:exported="true" />
+        <activity
+            android:name=".KulinerLamunOmbak"
+            android:exported="true" />
+        <activity
+            android:name=".EdukasiIstanaPagaruyung"
+            android:exported="true" />
+        <activity
+            android:name=".EdukasiMuseumAdityawarman"
+            android:exported="true" />
+        <activity
+            android:name=".AlamPantaiAirManis"
+            android:exported="true" />
+        <activity
+            android:name=".AlamDanauManinjau"
+            android:exported="true" />
+        <activity
+            android:name=".WisataReligi"
+            android:exported="true" />
+        <activity
+            android:name=".WisataEdukasi"
+            android:exported="true" />
+        <activity
+            android:name=".WisataKuliner"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

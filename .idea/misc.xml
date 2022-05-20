@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_alam.xml" value="0.25416666666666665" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_alam_danau_maninjau.xml" value="0.1" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_alam_pantai_air_manis.xml" value="0.1" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_edukasi_istana_pagaruyung.xml" value="0.12512664640324214" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_edukasi_museum_adityawarman.xml" value="0.264" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_kuliner_lamun_ombak.xml" value="0.264" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_kuliner_soto_garuda.xml" value="0.1" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_religi_masjid_raya.xml" value="0.1" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_religi_miniatur_makkah.xml" value="0.12158054711246201" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_wisata_alam.xml" value="0.25416666666666665" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_wisata_edukasi.xml" value="0.25416666666666665" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_wisata_kuliner.xml" value="0.25416666666666665" />
+        <entry key="..\:/KULIAH/SMT 6/MOBILE/Jalajah/app/src/main/res/layout/activity_wisata_religi.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
